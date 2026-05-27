@@ -1,0 +1,8 @@
+Day,Vehicle_ID,Units_Consumed,Charging_Hours,Charging_Time,Cost
+Monday,EV423,20,6,Morning,200
+Tuesday,EV204,10,2,Evening,100
+Wednesday,EV206,15,4,Peak Hours,150
+Thursday,EV213,9,2,Night,90
+Friday,EV224,18,5,Evening,180
+Saturday,EV208,11,3,Peak Hours,110
+Sunday,EV207,14,4,Night,140 
